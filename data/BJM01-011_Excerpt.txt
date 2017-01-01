@@ -1,3 +1,5 @@
+\_sh v3.0  1102 Text
+
 \id oai:paradisec.org.au:BJM01-11
 
 \ref oai:paradisec.org.au:BJM01-011
