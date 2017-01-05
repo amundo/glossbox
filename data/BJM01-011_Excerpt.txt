@@ -4,70 +4,70 @@
 \ELANBegin 00:00:16.397
 \ELANEnd 00:00:18.384
 \ELANParticipant Dewi
-\tx Tape gawih    kabah di  situ     Tih?
-\mb Tape gawih    kabah di  situ     Tih?
+\tx tape gawih    kabah di  situ     Tih?
+\mb tape gawih    kabah di  situ     Tih?
 \ge what activity 2SG   LOC DEM.DIST T.
-\ft What are you doing over there Tih? (Lit. What is your work there, Tih?)
-\nt CONTEXT: Rili lives in another village, but grew up in Karang Tanding; She pobably uses Tih incorrectly here, calling Rili by the wrong nickname,which is Lit.
+\ft what are you doing over there Tih? (Lit. what is your work there, Tih?)
+\nt CONTEXT: Rili lives in another village, but grew up in Karang Tanding; She probably uses Tih incorrectly here, calling Rili by the wrong nickname,which is Lit.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:18.470
 \ELANEnd 00:00:18.872
 \ELANParticipant Dewi
-\tx Anu.
-\mb Anu.
+\tx anu.
+\mb anu.
 \ge umm
-\ft Umm.
+\ft umm.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:19.218
 \ELANEnd 00:00:19.906
 \ELANParticipant Rili
-\tx Banyak.
-\mb Banyak.
+\tx banyak.
+\mb banyak.
 \ge a.lot
-\ft (My work) (is) a lot.
-\nt DISCOURSE: This can be answered with "Gawihku (lah) banyak."
+\ft (my work) (is) a lot.
+\nt DISCOURSE: This can be answered with “gawihku (lah) banyak."
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:20.048
 \ELANEnd 00:00:21.036
 \ELANParticipant Rili
-\tx Kebun,
-\mb Kebun,
+\tx kebun,
+\mb kebun,
 \ge garden
-\ft (We) (go to) the field.
+\ft (we) (go to) the field.
 \nt DISCOURSE: This can be answered with "kami kebun."
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:22.200
 \ELANEnd 00:00:23.042
 \ELANParticipant Dewi
-\tx Kabah milu   ke  situ?
-\mb Kabah milu   ke  situ?
+\tx kabah milu   ke  situ?
+\mb kabah milu   ke  situ?
 \ge 2SG   follow ALL DEM.DIST
-\ft You are joining (your husband) there?
+\ft you are joining (your husband) there?
 \nt TRANS: Probably intending to say "kabah milu ke situ".
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:23.553
 \ELANEnd 00:00:24.390
 \ELANParticipant Dewi
-\tx Ame ke  kebun  tu.
-\mb Ame ke  kebun  tu.
+\tx ame ke  kebun  tu.
+\mb ame ke  kebun  tu.
 \ge TOP ALL garden DET
-\ft If (you all) (are going) to the field.
+\ft if (you all) (are going) to the field.
 \nt SYNTAX: Ame (kabah) ke kebun tu.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:24.694
 \ELANEnd 00:00:25.212
 \ELANParticipant Rili
-\tx Dide,
-\mb Dide,
+\tx dide,
+\mb dide,
 \ge no
-\ft No,
+\ft no,
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
@@ -76,7 +76,7 @@
 \ELANParticipant Rili
 \tx kami     tinggal ngaghi Gitah.
 \mb kami     tinggal ngaghi Gitah.
-\ge 1PL.EXCL leave   with   NAME
+\ge 1PL.EXCL leave   with   G.
 \ft Gitah and I stay (home) (Lit. We stay with Gitah).
 \nt SYNTAX: Inclusive pronoun construction. This means that Gitah is included in the pronoun kami here (i.e., Gitah and I).
 
@@ -84,80 +84,80 @@
 \ELANBegin 00:00:27.017
 \ELANEnd 00:00:27.888
 \ELANParticipant Dewi
-\tx Au.
-\mb Au.
+\tx au.
+\mb au.
 \ge yes
-\ft Yeah.
+\ft yeah.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:27.144
 \ELANEnd 00:00:28.134
 \ELANParticipant Rili
-\tx Di  dusun.
-\mb Di  dusun.
+\tx di  dusun.
+\mb di  dusun.
 \ge LOC village
-\ft In the village.
+\ft in the village.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:29.616
 \ELANEnd 00:00:30.838
 \ELANParticipant Dewi
-\tx Laki    sughang     begawih?
-\mb Laki    se-  ughang be- gawih?
+\tx laki    sughang     begawih?
+\mb laki    se-  ughang be- gawih?
 \ge husband one- human  BE- activity
-\ft (Your) husband works alone?
+\ft (your) husband works alone?
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:30.974
 \ELANEnd 00:00:31.502
 \ELANParticipant Rili
-\tx Mhmm.
-\mb Mhmm.
+\tx mhmm.
+\mb mhmm.
 \ge mhmm
-\ft Mhmm.
+\ft mhmm.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:31.716
 \ELANEnd 00:00:32.768
 \ELANParticipant Rili
-\tx Ngepak    pule die mak      ini.
-\mb Nge- pak  pule die mak      ini.
+\tx ngepak    pule die mak      ini.
+\mb nge- pak  pule die mak      ini.
 \ge AV-  pack also 3   now      DEM.PROX
-\ft He is also packing (stuff) right now.
-\nt LEXICAL ITEM: "pak" is from English via Indonesian. Used to pack something into a box. In this case, he is packing bambang plants into a larger bag. It can be used as "dipak" or "dipaki" in the patientive voice, but this is pretty uncommon. It is a transitive verb and can be affixed with =nye. For example, "Aku ngepake" meaning I packed it.
+\ft he is also packing (stuff) right now.
+\nt LEXICAL ITEM: "pak" is borrowed from English via Indonesian. Used to pack something into a box. In this case, he is packing "bambang" plants into a larger bag. It can be used as "dipak" or "dipaki" in the patientive voice, but this is pretty uncommon. It is a transitive verb and can be affixed with =nye. For example, "Aku ngepake" meaning I packed it.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:33.874
 \ELANEnd 00:00:34.794
 \ELANParticipant Rili
-\tx Ngepak    ke  Tanjung,
-\mb Nge- pak  ke  Tanjung,
+\tx ngepak    ke  Tanjung,
+\mb nge- pak  ke  Tanjung,
 \ge AV-  pack ALL T.
-\ft (He) is packing (stuff) (and sending it) to Tanjung (Sakti).
+\ft (he) is packing (stuff) (and sending it) to Tanjung (Sakti).
 \nt CONTEXT: Tanjung Sakti is a town that is approximately one hour from Karang Tanding, where the conversation is taking place.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:34.024
 \ELANEnd 00:00:34.874
 \ELANParticipant Dewi
-\tx Tuape digawih?
-\mb Tuape di- gawih?
+\tx tuape digawih?
+\mb tuape di- gawih?
 \ge what  PV- activity
-\ft What is being done (lit. worked) (exactly) (by Rili's husband)?
+\ft what is being done (lit. worked) (exactly) (by Rili's husband)?
 \nt CHECK: It sounds like it could be `Tuape die gawih?'. ANSWER: She said "Tuape digawih?". DISCOURSE: It appears to be understood that Dewi is referring to Rili's husband as the one who is working or the A_PV. So, from this example, we can see that the agent can be completely understood.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:35.010
 \ELANEnd 00:00:35.632
 \ELANParticipant Rili
-\tx Lah due malam,
-\mb Lah due malam,
+\tx lah due malam,
+\mb lah due malam,
 \ge PFV two night
-\ft For two nights,
+\ft for two nights,
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
@@ -174,30 +174,30 @@
 \ELANBegin 00:00:37.112
 \ELANEnd 00:00:37.814
 \ELANParticipant Jamisah
-\tx Tuape anukahnye          tu?
-\mb Tuape anu     -kah  =nye tu?
+\tx tuape anukahnye          tu?
+\mb tuape anu     -kah  =nye tu?
 \ge what  [PV]umm -APPL =3   DET
-\ft What did he whatchamacallit (i.e., bring)?
+\ft what did he whatchamacallit (i.e., bring)?
 \nt CHECK: What is the difference here between having "tu" and not having "tu"? This could be a noun modifying constructions. ANSWER: It's not clear why one uses "tu" or not, but it is more common with this type of question construction. SYNTAX: It's interesting that she uses -kah here. If the substitute is really "batak". One wouldn't use -kah with batak in this context. If the root is "pak" Tuape dipake tu? If the root was "batak" Tuape dibatake tu? REFERENCE: =nye = Rili's husband.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:38.124
 \ELANEnd 00:00:38.716
 \ELANParticipant Rili
-\tx Bambang.
-\mb Bambang.
+\tx bambang.
+\mb bambang.
 \ge bambang
-\ft Bambang (plants).
+\ft bambang (plants).
 \nt LEXICAL ITEM: "bambang" is k.o. large tree, the wood is used to make wood planks for houses, etc.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:39.828
 \ELANEnd 00:00:42.054
 \ELANParticipant Jamisah
-\tx Bambang  tu  langsung mbatak    anunye   die tu,
-\mb Bambang  tu  langsung m-  batak anu =nye die tu,
+\tx bambang  tu  langsung mbatak    anunye   die tu,
+\mb bambang  tu  langsung m-  batak anu =nye die tu,
 \ge bambang  DET directly AV- bring umm =3   3   DET
-\ft (As for) the bambang trees, he directly brought their whatchamacallits (i.e., seedlings),
+\ft (as for) the bambang trees, he directly brought their whatchamacallits (i.e., seedlings),
 \nt SYNTAX: Topical construction. Refers to the P_AV.
 
 \ref oai:paradisec.org.au:BJM01-011
@@ -214,10 +214,10 @@
 \ELANBegin 00:00:42.546
 \ELANEnd 00:00:43.502
 \ELANParticipant Jamisah
-\tx Ape  tuape?
-\mb Ape  tuape?
+\tx ape  tuape?
+\mb ape  tuape?
 \ge or   what
-\ft Or what?
+\ft or what?
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
@@ -234,28 +234,28 @@
 \ELANBegin 00:00:44.200
 \ELANEnd 00:00:44.956
 \ELANParticipant Jamisah
-\tx Pelibiki?
-\mb Pelibik         -i?
+\tx pelibiki?
+\mb pelibik         -i?
 \ge [PV]plastic.bag -APPL
-\ft (The seedlings) have been potted (i.e., put in polebak bags)?
+\ft (the seedlings) have been potted (i.e., put in polebak bags)?
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:44.560
 \ELANEnd 00:00:45.106
 \ELANParticipant Rili
-\tx E'e.
-\mb E'e.
+\tx e’e.
+\mb e’e.
 \ge uhuh
-\ft Uhuh.
+\ft uhuh.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:45.826
 \ELANEnd 00:00:46.880
 \ELANParticipant Rili
-\tx Ngepak    bambang  tu,
-\mb Nge- pak  bambang  tu,
+\tx ngepak    bambang  tu,
+\mb nge- pak  bambang  tu,
 \ge AV-  pack bambang  DET
 \ft (He) packed (and shipped) the bambang (seedings).
 \nt REFERENCE: die = Rili's husband
@@ -264,8 +264,8 @@
 \ELANBegin 00:00:47.720
 \ELANEnd 00:00:48.694
 \ELANParticipant Jamisah
-\tx Ngepak    mak     itu.
-\mb Nge- pak  mak     itu.
+\tx ngepak    mak     itu.
+\mb nge- pak  mak     itu.
 \ge AV-  pack like    DEM.DIST
 \ft (He) packed (the bambang seedlings) like that.
 \nt
@@ -274,10 +274,10 @@
 \ELANBegin 00:00:48.694
 \ELANEnd 00:00:49.029
 \ELANParticipant Rili
-\tx Mhmm.
-\mb Mhmm.
+\tx mhmm.
+\mb mhmm.
 \ge mhmm
-\ft Mhmm.
+\ft mhmm.
 \nt
 
 
@@ -285,8 +285,8 @@
 \ELANBegin 00:00:49.090
 \ELANEnd 00:00:49.576
 \ELANParticipant Rili
-\tx Ngepak,
-\mb Nge- pak,
+\tx ngepak,
+\mb nge- pak,
 \ge AV-  pack
 \ft (He) packed (the bambang seedlings),
 \nt
@@ -305,40 +305,40 @@
 \ELANBegin 00:00:49.758
 \ELANEnd 00:00:50.046
 \ELANParticipant Jamisah
-\tx Ngepak-
-\mb Nge- pak-
+\tx ngepak-
+\mb nge- pak-
 \ge AV-  pack
-\ft (He) packed-
+\ft (he) packed-
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:50.358
 \ELANEnd 00:00:50.758
 \ELANParticipant Jamisah
-\tx Au.
-\mb Au.
+\tx au.
+\mb au.
 \ge yes
-\ft Yeah.
+\ft yeah.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:50.898
 \ELANEnd 00:00:51.250
 \ELANParticipant Rili
-\tx E'e,
-\mb E'e,
+\tx e’e,
+\mb e’e,
 \ge uhuh
-\ft Uhuh.
+\ft uhuh.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:52.457
 \ELANEnd 00:00:53.935
 \ELANParticipant Rili
-\tx Lah due malam,
-\mb Lah due malam,
+\tx lah due malam,
+\mb lah due malam,
 \ge PFV two night
-\ft For two nights,
+\ft for two nights,
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
@@ -355,70 +355,70 @@
 \ELANBegin 00:00:56.160
 \ELANEnd 00:00:57.255
 \ELANParticipant Dewi
-\tx Jadi ditanam   titu?
-\mb Jadi di- tanam titu?
+\tx jadi ditanam   titu?
+\mb jadi di- tanam titu?
 \ge so   PV- plant DEM.DIST
-\ft So those (i.e., seedlings) (will be) planted?
+\ft so those (i.e., seedlings) (will be) planted?
 \nt CHECK: Does "titu" refer to the seedlings or to the people or neither? ANSWER: The "titu" refers to the seedlings here. DISCOURSE: Rili's husband is not the one who will plant the seedlings. It is some unknown third party that will plant the seedlings. She doesn't know who will plant the seedlings.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:00:57.687
 \ELANEnd 00:00:58.208
 \ELANParticipant Rili
-\tx Mhmm.
-\mb Mhmm.
+\tx mhmm.
+\mb mhmm.
 \ge mhmm
-\ft Uhuh.
+\ft uhuh.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:01:00.560
 \ELANEnd 00:01:00.879
 \ELANParticipant Dewi
-\tx Ai-
-\mb Ai-
+\tx ai-
+\mb ai-
 \ge EXCLAM
-\ft Ai-
+\ft ai-
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:01:01.278
 \ELANEnd 00:01:01.792
 \ELANParticipant Dewi
-\tx Anu,
-\mb Anu,
+\tx anu,
+\mb anu,
 \ge umm
-\ft Umm,
+\ft umm,
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:01:01.460
 \ELANEnd 00:01:03.350
 \ELANParticipant Jamisah
-\tx Kamu mulibik         bambang  tu.
-\mb Kamu m-  (p)ulibik   bambang  tu.
+\tx kamu mulibik         bambang  tu.
+\mb kamu m-  (p)ulibik   bambang  tu.
 \ge 2PL  AV- plastic.bag bambang  DET
-\ft You all potted (i.e., put in polebak bags) the bambang (seedlings).
+\ft you all potted (i.e., put in polebak bags) the bambang (seedlings).
 \nt REFERENCE: "Kamu" refers to Rili and her husband, not to the others that they hired. DETERMINER: This seems to be a good case for where a deteriminer is used form a P_AV.
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:01:04.554
 \ELANEnd 00:01:05.174
 \ELANParticipant Jamisah
-\tx Ngari              eh?
-\mb Ng- ari            eh?
+\tx ngari              eh?
+\mb ng- ari            eh?
 \ge AV- day.labor      yeah
-\ft (You) hired (people) by the day right?
+\ft (you) hired (people) by the day right?
 \nt CHECK: Does this mean that she hired day laborers? What's the arg structure of "ngari"? ANSWER: ngari means to hire someone for the day, so the agent is the person who hires for the day. It is transitive: "Aku ngari rumbungan Hendi", but "Rumbungan Hendi diari li Sarkani."
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:01:05.638
 \ELANEnd 00:01:06.440
 \ELANParticipant Rili
-\tx Au  ngari,
-\mb Au  ng- ari,
+\tx au  ngari,
+\mb au  ng- ari,
 \ge yes AV- day.labor
-\ft Yeah (we) hired (people) by the day,
+\ft yeah (we) hired (people) by the day,
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
@@ -435,10 +435,10 @@
 \ELANBegin 00:01:07.448
 \ELANEnd 00:01:08.401
 \ELANParticipant Jamisah
-\tx Oh     masih sepuluh,
-\mb Oh     masih se-  puluh,
+\tx oh     masih sepuluh,
+\mb oh     masih se-  puluh,
 \ge EXCLAM still one- ten
-\ft Oh (the payment) is still ten (rupiah),
+\ft oh (the payment) is still ten (rupiah),
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
@@ -455,18 +455,18 @@
 \ELANBegin 00:01:08.680
 \ELANEnd 00:01:09.122
 \ELANParticipant Rili
-\tx E'e,
-\mb E'e,
+\tx e’e,
+\mb e’e,
 \ge uhuh
-\ft Uhuh,
+\ft uhuh,
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:01:09.306
 \ELANEnd 00:01:10.698
 \ELANParticipant Jamisah
-\tx Ngah   kaman    kakak         Iwan ni  eh?
-\mb Ngah   kaman    kakak         Iwan ni  eh?
+\tx ngah   kaman    kakak         Iwan ni  eh?
+\mb ngah   kaman    kakak         Iwan ni  eh?
 \ge with   group    older.brother I.   DET yeah
 \ft with Iwan's dad's group, yeah? (Lit. with older brother Iwan's group yeah)?
 \nt
@@ -478,17 +478,17 @@
 \tx masih seragi.
 \mb masih se-  ragi.
 \ge still one- color
-\ft (The payment) is still the same.
+\ft (the payment) is still the same.
 \nt
 
 \ref oai:paradisec.org.au:BJM01-011
 \ELANBegin 00:01:12.754
 \ELANEnd 00:01:14.186
 \ELANParticipant Jamisah
-\tx Pacak bisnis   laki    kabah.
-\mb Pacak bisnis   laki    kabah.
+\tx pacak bisnis   laki    kabah.
+\mb pacak bisnis   laki    kabah.
 \ge able  bisnis   husband 2SG
-\ft Your husband can conduct business.
+\ft your husband can conduct business.
 \nt LEXCIAL ITEM: bisnis can act as an intransitive verb or a noun (i.e., be possessed) in Besemah.
 
 \ELANMediaURL file:///Z:/Documents/Besemah/PSE_Archive/PSE_Audio/PSE-20091124-C.wav
