@@ -1,0 +1,117 @@
+\id PSE-20090719-C-TA
+
+\ref PSE-20090719-C.002
+\ELANBegin 25.660
+\ELANEnd 26.170
+\ELANParticipant Iril
+\ds ah
+\tx ah
+\wd ah
+\mb ah
+\ge EXCL
+\gn EXCL
+\fn 
+\ft 
+\nt 
+
+\ref PSE-20090719-C.003
+\ELANBegin 25.880
+\ELANEnd 26.950
+\ELANParticipant Buwoh
+\ds tuape ceritenye kite ni?
+\tx tuape ceritenye kite ni?
+\wd tuape ceritenye   kite     ni?
+\mb tuape cerite =nye kite     tini
+\ge what  story  =3   1PL.INCL this
+\gn apa   cerita =3   1PL.INCL ini
+\fn cerita apa kita ini?
+\ft What are we going to talk about?
+\nt 
+
+\ref PSE-20090719-C.004
+\ELANBegin 27.000
+\ELANEnd 28.770
+\ELANParticipant Raples 
+\ds ah tuape gawih kite nilah.
+\tx ah tuape gawih kite nilah.
+\wd ah   tuape gawih    kite     nilah.
+\mb ah   tuape gawih    kite     tini =lah
+\ge EXCL what  activity 1PL.INCL this =lah
+\gn EXCL apa   kerja    1PL.INCL ini  =lah
+\fn ah apa, kegiatan kita inilah.
+\ft oh, our activities.
+\nt 
+
+\ref PSE-20090719-C.005
+\ELANBegin 28.170
+\ELANEnd 30.110
+\ELANParticipant Iril
+\ds bukan kite ni kah luk mane kite ni.
+\tx bukan, kite ni kah luk mane kite ni.
+\wd bukan, kite     ni   kah luk     mane  kite     ni.
+\mb bukan  kite     tini kah luluk   mane  kite     tini
+\ge NEG    1PL.INCL this FUT like    which 1PL.INCL this
+\gn NEG    1PL.INCL ini  FUT seperti mana  1PL.INCL ini
+\fn bukan, kita akan membahas apa, kita ini?
+\ft no not that, how will we do it?
+\nt 
+
+\ref PSE-20090719-C.006
+\ELANBegin 30.130
+\ELANEnd 34.660
+\ELANParticipant Iril
+\ds ape ade permasalahan ye mungkin nak dipecahkah ape luk mane tini.
+\tx ape ade permasalahan ye mungkin nak dipecahkah ape luk mane tini?
+\wd ape   ade   permasalahan ye   mungkin  nak   dipecahkah      ape   luk     mane  tini?
+\mb tuape ade   permasalahan ye   mungkin  endak di= pecah -kah  tuape luluk   mane  tini
+\ge what  exist issues       that possilbe will  UV= break -APPL what  like    which this
+\gn apa   ada   permasalahan yang mungkin  mau   UV= pecah -APPL apa   seperti mana  ini
+\fn Apa ada permasalahan yang  mungkin akan dibahas atau bagaimana kita ini?
+\ft Is there a problem that we could possibly break apart or how can we do this?
+\nt 
+
+\ref PSE-20090719-C.007
+\ELANBegin 35.150
+\ELANEnd 36.700
+\ELANParticipant Raples 
+\ds ai ude pule,
+\tx ai ude pule,
+\wd ai   ude  pule,
+\mb ai   ude  pule
+\ge EXCL PERF also
+\gn EXCL PERF juga
+\fn ah sudahlah,
+\ft oh forget about it (Lit. It's already done.)
+\nt 
+
+\ref PSE-20090719-C.008
+\ELANBegin 36.770
+\ELANEnd 38.980
+\ELANParticipant Raples 
+\ds ude pule kabah nak keruan ige, hmm ai.
+\tx ude pule kabah nak keruan ige, hm ai.
+\wd ude  pule kabah nak   keruan      ige,    hmm ai.
+\mb ude  pule kabah endak keru -an    ige     hmm ai
+\ge PERF also 2SG   will  know -NMLZR too     hmm EXCL
+\gn PERF juga 2SG   mau   tahu -NMLZR terlalu hmm EXCL
+\fn sudahlah, kamu tidak usah tahu, ya.
+\ft oh forget about it, you don't need to know too much, yeah.
+\nt 
+
+\ref PSE-20090719-C.009
+\ELANBegin 36.780
+\ELANEnd 38.120
+\ELANParticipant Hendi
+\ds dide, dide pule.
+\tx dide, dide pule.
+\wd dide, dide  pule.
+\mb dide  dide  pule
+\ge no    no    also
+\gn tidak tidak juga
+\fn tidak, tidak ada juga.
+\ft no, no there isn't a problem.
+\nt 
+
+
+\ELANMediaURL file:///C:/Documents and Settings/bradley mcdonnell/My Documents/Besemah/Besemah_Recordings_2009/Besemah_Conversation_Recordings/Besemah_Conversation_Recordings_2009/Hendi_Conversation1_19_July_2009_Edited.wav
+\ELANMediaMIME audio/x-wav
