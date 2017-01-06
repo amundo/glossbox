@@ -1,0 +1,6 @@
+    \a[label={{{ELANParticipant}}}]
+      \begingl
+        \gla {{{mb}}}//
+        \glb {{{ge}}}//
+        \glft `{{{ft}}}'//
+      \endgl
